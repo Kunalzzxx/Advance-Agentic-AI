@@ -1,7 +1,9 @@
 # Advance-Agentic-AI
 Advanced Agentic AI Assistant powered by Llama 3 (Groq) featuring persistent memory, memory recall, tool execution, and a Flask-based interactive web interface.
-📌 Title
-🤖 Advanced Agentic AI Assistant with Memory & Tool Integration
+
+ Title
+
+ Advanced Agentic AI Assistant with Memory & Tool Integration
 
 
 2.  Executive Summary
@@ -30,6 +32,7 @@ This project addresses these challenges by creating an AI assistant with persist
 
 4.  Methodology
 Architecture
+
 User Interface (HTML/CSS/JS)
             │
             ▼
@@ -42,6 +45,7 @@ User Interface (HTML/CSS/JS)
  ▼          ▼          ▼
 LLM      Memory      Tools
 (Groq)   Manager   Execution
+
 Workflow
 User submits query
 Agent retrieves relevant memories
@@ -57,6 +61,7 @@ Memory Retrieval Engine
 Tool Execution Framework
 Flask Web Server
 Interactive Chat Interface
+
 5.  Skills Demonstrated
 AI & Machine Learning
 Agentic AI Systems
@@ -80,6 +85,7 @@ Groq API
 HTML
 CSS
 JavaScript
+
 6.  Results & Business Recommendation
 Key Achievements
 
@@ -104,6 +110,7 @@ Personal AI Assistants
 Knowledge Management Systems
 Internal Enterprise Copilots
 Educational Assistants
+
 7.  Next Steps
 Planned Enhancements
 Vector Database Integration
@@ -122,3 +129,12 @@ assets/
 ├── web-ui.png
 ├── terminal-agent.png
 └── architecture.png
+## Demo
+
+### Web Interface
+
+![Web UI](assets/web-ui.png)
+
+### Terminal Agent
+
+![Terminal](assets/terminal-agent.png)
