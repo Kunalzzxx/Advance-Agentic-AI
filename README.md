@@ -1,3 +1,28 @@
+<p align="center">
+  <img src="assets/hero-banner.png">
+</p>
+
+<h1 align="center">
+🤖 Advanced Agentic AI Assistant
+</h1>
+
+<p align="center">
+Memory Storage • Memory Recall • Tool Calling • Llama 3
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask">
+<img src="https://img.shields.io/badge/Groq-Llama3-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Agentic-AI-green?style=for-the-badge">
+</p>
+
+
+
+
+
+
+
 # Advance-Agentic-AI
 Advanced Agentic AI Assistant powered by Llama 3 (Groq) featuring persistent memory, memory recall, tool execution, and a Flask-based interactive web interface.
 
@@ -30,18 +55,6 @@ Improve user experience through personalization
 
 This project addresses these challenges by creating an AI assistant with persistent memory and tool integration.
 
-User Interface (HTML/CSS/JS)
-            │
-            ▼
-      Flask Backend
-            │
-            ▼
-     Agent Controller
-            │
- ┌──────────┼──────────┐
- ▼          ▼          ▼
-LLM      Memory      Tools
-(Groq)   Manager   Execution
 
 
 Workflow
@@ -134,5 +147,13 @@ Authentication & User Profiles
 Advanced Tool Ecosystem
 Agent Planning Framework
 
-<img width="1892" height="1021" alt="Screenshot 2026-06-01 182007" src="https://github.com/user-attachments/assets/0b7f5826-36bd-4ddf-b2d7-b223e1acd3fa" />
+## ✨ Features
 
+| Feature | Description |
+|----------|------------|
+| 🧠 Persistent Memory | Stores user interactions |
+| 🔄 Memory Recall | Retrieves past information |
+| 🛠 Tool Calling | Executes external tools |
+| ⚡ Groq + Llama 3 | Fast inference |
+| 🌐 Flask UI | Interactive interface |
+| 📚 Context Awareness | Maintains conversation history |
