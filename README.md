@@ -18,10 +18,10 @@ Memory Storage • Memory Recall • Tool Calling • Llama 3
 </p>
 
 
-## 🎥 Live Demo
+##  Sreenshot
 
 <p align="center">
-  <img src=<img width="1876" height="577" alt="Screenshot 2026-06-01 182208" src="https://github.com/user-attachments/assets/fe2ac4cd-a4c1-43cb-a2c1-20c434c9d26d" />
+  <img width="1876" height="577" alt="Screenshot 2026-06-01 182208" src="https://github.com/user-attachments/assets/fe2ac4cd-a4c1-43cb-a2c1-20c434c9d26d" />
 </p>
 
 
