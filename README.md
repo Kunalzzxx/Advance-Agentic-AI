@@ -31,6 +31,7 @@ Improve user experience through personalization
 This project addresses these challenges by creating an AI assistant with persistent memory and tool integration.
 
 4.  Methodology
+
 Architecture
 
 User Interface (HTML/CSS/JS)
@@ -46,20 +47,35 @@ User Interface (HTML/CSS/JS)
 LLM      Memory      Tools
 (Groq)   Manager   Execution
 
+
 Workflow
+
 User submits query
+
 Agent retrieves relevant memories
+
 Context is sent to Llama 3 via Groq API
+
 Agent determines whether tool execution is required
+
 Tool output is processed
+
 Memory database is updated
+
 Response returned to user
+
 Core Components
+
 Llama 3 Integration (Groq)
+
 Memory Storage System
+
 Memory Retrieval Engine
+
 Tool Execution Framework
+
 Flask Web Server
+
 Interactive Chat Interface
 
 5.  Skills Demonstrated
