@@ -122,19 +122,6 @@ Authentication & User Profiles
 Advanced Tool Ecosystem
 Agent Planning Framework
 
-Create:
-
-assets/
-│
-├── web-ui.png
-├── terminal-agent.png
-└── architecture.png
-## Demo
-
-### Web Interface
-
 ![Web UI](assets/web-ui.png)
 
-### Terminal Agent
-
-![Terminal](assets/terminal-agent.png)
+![Terminal Agent](assets/terminal-agent.png)
