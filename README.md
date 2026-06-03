@@ -1,7 +1,7 @@
 # Advance-Agentic-AI
 Advanced Agentic AI Assistant powered by Llama 3 (Groq) featuring persistent memory, memory recall, tool execution, and a Flask-based interactive web interface.
 
- Title
+ 1.Title
 
  Advanced Agentic AI Assistant with Memory & Tool Integration
 
@@ -122,6 +122,5 @@ Authentication & User Profiles
 Advanced Tool Ecosystem
 Agent Planning Framework
 
-![Web UI](assets/web-ui.png)
+<img width="1892" height="1021" alt="Screenshot 2026-06-01 182007" src="https://github.com/user-attachments/assets/0b7f5826-36bd-4ddf-b2d7-b223e1acd3fa" />
 
-![Terminal Agent](assets/terminal-agent.png)
