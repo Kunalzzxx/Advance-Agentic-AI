@@ -18,6 +18,11 @@ Memory Storage • Memory Recall • Tool Calling • Llama 3
 </p>
 
 
+## 🎥 Live Demo
+
+<p align="center">
+  <img src=<img width="1876" height="577" alt="Screenshot 2026-06-01 182208" src="https://github.com/user-attachments/assets/fe2ac4cd-a4c1-43cb-a2c1-20c434c9d26d" />
+</p>
 
 
 
@@ -55,7 +60,16 @@ Improve user experience through personalization
 
 This project addresses these challenges by creating an AI assistant with persistent memory and tool integration.
 
+## ✨ Features
 
+| Feature | Description |
+|----------|------------|
+| 🧠 Persistent Memory | Stores user interactions |
+| 🔄 Memory Recall | Retrieves past information |
+| 🛠 Tool Calling | Executes external tools |
+| ⚡ Groq + Llama 3 | Fast inference |
+| 🌐 Flask UI | Interactive interface |
+| 📚 Context Awareness | Maintains conversation history |
 
 Workflow
 
@@ -112,6 +126,7 @@ CSS
 JavaScript
 
 6.  Results & Business Recommendation
+
 Key Achievements
 
  Successfully implemented persistent memory
@@ -137,6 +152,7 @@ Internal Enterprise Copilots
 Educational Assistants
 
 7.  Next Steps
+
 Planned Enhancements
 Vector Database Integration
 RAG (Retrieval-Augmented Generation)
@@ -147,13 +163,4 @@ Authentication & User Profiles
 Advanced Tool Ecosystem
 Agent Planning Framework
 
-## ✨ Features
 
-| Feature | Description |
-|----------|------------|
-| 🧠 Persistent Memory | Stores user interactions |
-| 🔄 Memory Recall | Retrieves past information |
-| 🛠 Tool Calling | Executes external tools |
-| ⚡ Groq + Llama 3 | Fast inference |
-| 🌐 Flask UI | Interactive interface |
-| 📚 Context Awareness | Maintains conversation history |
