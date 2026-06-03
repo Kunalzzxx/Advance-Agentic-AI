@@ -30,10 +30,6 @@ Improve user experience through personalization
 
 This project addresses these challenges by creating an AI assistant with persistent memory and tool integration.
 
-4.  Methodology
-
-Architecture
-
 User Interface (HTML/CSS/JS)
             │
             ▼
